@@ -1,1 +1,1 @@
-Mah solutions (some are incomplete)
+My solutions for openkattis problems(some are incomplete)
